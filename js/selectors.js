@@ -12,6 +12,6 @@ function paragraphSelector(){
       }
       
       function divSelector(){
-       return ('')
+       return ('#parent_div_1, #parent_div_2')
         
       }
