@@ -18,5 +18,5 @@ function paragraphSelector(){
       
       function firstListItem(){
         
-        return $('ul:first') 
+        return $('ul li') 
       }
