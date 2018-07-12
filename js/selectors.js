@@ -12,6 +12,6 @@ function paragraphSelector(){
       }
       
       function divSelector(){
-        return $('')
+        ('')
         
       }
