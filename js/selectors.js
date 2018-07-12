@@ -18,5 +18,5 @@ function paragraphSelector(){
       
       function firstListItem(){
         
-        return $('parent-tag child-tag:first-child')
+        return 
       }
