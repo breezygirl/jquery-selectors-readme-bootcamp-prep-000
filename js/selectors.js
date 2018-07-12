@@ -8,5 +8,5 @@ function paragraphSelector(){
       }
       
       function ninjaBabySelector(){
-        return $("img[alt='ninjbaby']")
+        return $("img[alt='ninjababy']")
       }
