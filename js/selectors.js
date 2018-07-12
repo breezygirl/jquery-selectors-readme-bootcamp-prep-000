@@ -8,5 +8,5 @@ function paragraphSelector(){
       }
       
       function ninjaBabySelector(){
-        return 
+        return $('div img:first-child')
       }
