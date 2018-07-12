@@ -8,5 +8,5 @@ function paragraphSelector(){
       }
       
       function ninjaBabySelector(){
-        return 
+        return $('parent-tag child-tag:first-child')
       }
