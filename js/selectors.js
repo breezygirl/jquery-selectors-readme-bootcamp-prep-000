@@ -12,6 +12,6 @@ function paragraphSelector(){
       }
       
       function divSelector(){
-        ('')
+        ('.parent_class div:first-child + div')
         
       }
